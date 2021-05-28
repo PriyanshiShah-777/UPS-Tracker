@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118631347175",
+    "firebase_url": "https://ups-project-f1e28-default-rtdb.firebaseio.com",
+    "project_id": "ups-project-f1e28",
+    "storage_bucket": "ups-project-f1e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118631347175:android:e6254586bb19731ff40342",
+        "android_client_info": {
+          "package_name": "com.example.upsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118631347175-rot35uptir7kiinnok8ga5mb4qdfvn33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvm3UzEynd-s6Cejp4jotrLZeHNcN1jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118631347175-rot35uptir7kiinnok8ga5mb4qdfvn33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
